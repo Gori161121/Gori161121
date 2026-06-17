@@ -1,15 +1,39 @@
 <div align="center">
 
-<h1> Tural Alizada </h1>
+# Tural Alizada
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=1F6FEB&center=true&vCenter=true&width=900&lines=From+Business+Problems+to+Intelligent+Systems;AI+Systems+%7C+Automation+%7C+Data+Analytics;Building+Business+Intelligence+%26+Decision+Support+Systems" alt="Typing SVG" />
+### AI Systems & Automation Engineer
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20Systems-0F172A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Automation-1F6FEB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Business%20Intelligence-2563EB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Analytics-334155?style=for-the-badge">
+## From Business Problems  
+## To Intelligent Systems
+
+<br>
+
+<table>
+<tr>
+<td align="center"><b>Business Problem</b></td>
+<td align="center">→</td>
+<td align="center"><b>Data Layer</b></td>
+<td align="center">→</td>
+<td align="center"><b>Automation</b></td>
+<td align="center">→</td>
+<td align="center"><b>AI System</b></td>
+<td align="center">→</td>
+<td align="center"><b>Business Decision</b></td>
+</tr>
+</table>
+
+<br>
+
+<b>I build intelligent systems that connect business operations, automation, data analytics and AI.</b>
+
+<br><br>
+
+<sub>
+AI Systems • Workflow Automation • Business Intelligence • Data Analytics • Decision Support
+</sub>
 
 </div>
 
