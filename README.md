@@ -1,17 +1,20 @@
 <p align="center">
   <img src="./Git-hub-banner.png" alt="Tural Alizada GitHub Banner" width="100%">
 </p>
-<!--
-**Gori161121/Gori161121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Tural Alizada</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+AI Systems & Automation Engineer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+From Business Problems to Intelligent Systems
+</p>
+
+---
+
+I design and build intelligent business systems that combine Artificial Intelligence, Workflow Automation, Data Analytics, and Business Intelligence to solve real-world operational challenges.
+
+My focus is not only building software, but creating systems that improve decision-making, automate repetitive processes, and transform business operations through technology.
+
+---
