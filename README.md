@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./Git-hub-banner.png" alt="Tural Alizada GitHub Banner" width="100%">
 </p>
-<h1 align="center">Tural Alizada</h1>
 
 <p align="center">
 AI Systems & Automation Engineer
