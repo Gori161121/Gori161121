@@ -1,21 +1,21 @@
-```markdown
 <div align="center">
 
 <h1> Tural Alizada </h1>
 
-<h3>AI Systems & Automation Engineer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=1F6FEB&center=true&vCenter=true&width=900&lines=From+Business+Problems+to+Intelligent+Systems;AI+Systems+%7C+Automation+%7C+Data+Analytics;Building+Business+Intelligence+%26+Decision+Support+Systems" alt="Typing SVG" />
 
-<pre>
-business_problem  →  data_layer  →  automation_layer  →  ai_system  →  business_intelligence
-</pre>
+<br>
 
-<p>
-From Business Problems to Intelligent Systems
-</p>
+<img src="https://img.shields.io/badge/AI%20Systems-0F172A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Automation-1F6FEB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Business%20Intelligence-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Analytics-334155?style=for-the-badge">
 
 </div>
 
 ---
+
+## Building Intelligent Business Systems
 
 I design and build intelligent business systems that combine Artificial Intelligence, Workflow Automation, Data Analytics, and Business Intelligence to solve real-world operational challenges.
 
