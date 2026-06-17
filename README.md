@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./Gir-hub-banner.png" alt="Tural Alizada GitHub Banner" width="100%">
+  <img src="./Git-hub-banner.png" alt="Tural Alizada GitHub Banner" width="100%">
 </p>
-
 <!--
 **Gori161121/Gori161121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
