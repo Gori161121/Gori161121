@@ -1,7 +1,14 @@
-<p align="center">
-  <img src="./Git-hub-banner.png" alt="Tural Alizada GitHub Banner" width="100%">
-</p>
+<div align="center">
 
+# Tural Alizada
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&lines=AI+Systems+%26+Automation+Engineer;From+Business+Problems+to+Intelligent+Systems;Building+AI-Powered+Business+Systems;Automation+%7C+Data+Analytics+%7C+Business+Intelligence" alt="Typing SVG" />
+
+</div>
+
+---
+
+## Building Intelligent Business Systems
 ## Building Intelligent Business Systems
 
 I design and build intelligent business systems that combine Artificial Intelligence, Workflow Automation, Data Analytics, and Business Intelligence to solve real-world operational challenges.
