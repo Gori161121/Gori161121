@@ -74,15 +74,6 @@ database design to IoT, data analytics and conversational AI.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gori161121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gori161121&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-</p>
-
----
-
 ## 🤝 Connect
 
 <p align="center">
